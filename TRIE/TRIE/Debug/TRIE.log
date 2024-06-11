@@ -1,0 +1,11 @@
+﻿  TRIE.cpp
+C:\Users\habdelhady\Source\Repos\TRIE\TRIE\triee.h(30,29): warning C4099: 'triee::node': type name first seen using 'class' now seen using 'struct'
+C:\Users\habdelhady\Source\Repos\TRIE\TRIE\triee.h(9): message : see declaration of 'triee::node'
+  triee.cpp
+C:\Users\habdelhady\Source\Repos\TRIE\TRIE\triee.h(30,29): warning C4099: 'triee::node': type name first seen using 'class' now seen using 'struct'
+C:\Users\habdelhady\Source\Repos\TRIE\TRIE\triee.h(9): message : see declaration of 'triee::node'
+C:\Users\habdelhady\Source\Repos\TRIE\TRIE\triee.cpp(75,32): warning C4099: 'triee::node': type name first seen using 'class' now seen using 'struct'
+C:\Users\habdelhady\Source\Repos\TRIE\TRIE\triee.h(9): message : see declaration of 'triee::node'
+C:\Users\habdelhady\Source\Repos\TRIE\TRIE\triee.cpp(103,66): error C2572: 'triee::printAllWords': redefinition of default argument: parameter 1
+C:\Users\habdelhady\Source\Repos\TRIE\TRIE\triee.h(33): message : see declaration of 'triee::printAllWords'
+  Generating Code...

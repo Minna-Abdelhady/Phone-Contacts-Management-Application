@@ -1,0 +1,7 @@
+﻿  Data Structure Project.cpp
+  Trie.cpp
+C:\Users\habdelhady\Source\Repos\Data Structure Project\Data Structure Project\Trie.cpp(18,11): warning C4930: 'Trie::TrieNode root(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\habdelhady\Source\Repos\Data Structure Project\Data Structure Project\Trie.cpp(32,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\habdelhady\Source\Repos\Data Structure Project\Data Structure Project\Trie.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Data Structure Project.vcxproj -> C:\Users\habdelhady\Source\Repos\Data Structure Project\Debug\Data Structure Project.exe
