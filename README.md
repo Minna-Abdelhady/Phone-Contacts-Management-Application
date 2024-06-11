@@ -26,12 +26,6 @@ Developed a phone contacts management application using the Trie data structure.
 - **Programming Language:** C++
 - **Data Structure:** Trie
 
-## File Structure
-
-- `main.cpp` (or `main.java`, `main.py`): Contains the main application logic and Trie implementation.
-
-## Getting Started
-
 ## Acknowledgements
 
 - Thanks to all contributors and those who provided valuable feedback during development.
